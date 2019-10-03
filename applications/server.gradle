@@ -11,4 +11,5 @@ dependencies {
     compile "ch.qos.logback:logback-classic:$logbackVersion"
 
     testCompile project(":components:test-support")
+    testCompile project(":components:test-support")
 }
